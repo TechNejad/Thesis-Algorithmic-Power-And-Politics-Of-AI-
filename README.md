@@ -21,7 +21,7 @@ Artificial Intelligence is reshaping the fundamentals of power and politics. Thi
 5. **Bibliography**
 
 ## Download Thesis
-[Download PDF](The Thesis– 2C.pdf)
+[Download PDF](Thesis.pdf)
 
 ## Author
 **Mohsen HassanNejad**  
