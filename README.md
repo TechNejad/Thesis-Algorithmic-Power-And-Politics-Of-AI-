@@ -14,9 +14,9 @@ Artificial Intelligence is reshaping the fundamentals of power and politics. Thi
    - Intelligent Algorithms & Big Data
    - Technology, Politics, and Power
 3. **Main Inquiry**
-   - The Cradle of Machine Learning
-   - The Panopticon: China's Digital Model
-   - AI in International Relations
+   - The Cradle Of Machine Learning
+   - The Panopticon: China Has (A) Plan
+   - AI In International Relations
 4. **Conclusion**
 5. **Bibliography**
 
